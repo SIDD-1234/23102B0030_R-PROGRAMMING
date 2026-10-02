@@ -1,0 +1,9 @@
+# R specific files
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+
+# Large data files / archives
+*.zip
+*.tar.gz
